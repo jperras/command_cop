@@ -3,7 +3,7 @@
 import re
 import weechat
 
-SCRIPT_NAME    = "dummy"
+SCRIPT_NAME    = "command-cop"
 SCRIPT_AUTHOR  = "Joël Perras <joel@nerderati.com>"
 SCRIPT_VERSION = "0.1"
 SCRIPT_LICENSE = "MIT"
